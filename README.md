@@ -1,4 +1,6 @@
-
+<div>
+  <img src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif" alt="image"/>
+</div>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/madhu-mishra9) 
 
